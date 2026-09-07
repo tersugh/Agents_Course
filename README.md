@@ -1,0 +1,3 @@
+# Agents_Course
+This course combines theory, coding, and deployment in one place. You’ll start from the basics of Python and Git, and by the end, you’ll be coding cutting-edge AI applications with LangChain, LangGraph, Ollama, Hugging Face, and more.
+Unlike other courses, this one doesn’t stop at “calling APIs.” You will go deeper into system design, queues, scaling, memory, and graph-powered AI agents — everything you need to stand out as an AI Engineer.
